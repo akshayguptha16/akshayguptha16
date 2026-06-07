@@ -43,6 +43,11 @@ Currently pursuing MCA in Data Analytics at Jain University (Online).
 ---
 
 ## Projects
+### Django Contact Book — Live Web Application
+Full-stack contact management system built with Django. Features complete CRUD operations, Bootstrap styling, and live deployment.
+- **Live:** https://django-contact-book.onrender.com
+- **GitHub:** https://github.com/akshayguptha16/django-contact-book
+- **Tech:** Python, Django, SQLite, Bootstrap, Render
 
 ### Django E-Commerce Platform
 Full-stack web application with user authentication, session management, product listings, shopping cart, and order tracking. Built with Django and SQLite.
