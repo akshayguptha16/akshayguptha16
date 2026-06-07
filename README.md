@@ -60,7 +60,7 @@ Behavioral analytics system using Isolation Forest to detect outlier search quer
 
 ---
 
-## Currently Learning#
+## Currently Learning
 - Django REST Framework and API development
 - PostgreSQL database integration
 - Deploying Django applications to production
